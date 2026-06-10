@@ -2,6 +2,7 @@
 How do enduring value-generating systems come into existence and continue existing beyond their creator?
 
 ---
+# Version 1
 
 # 1. What is this repository?
 This repository documents my attempts to investigate difficult questions through short, deadline-constrained research projects.
