@@ -20,6 +20,8 @@ Questions it rises:
 Possible Mechanisms: 
 - Decentralization
 - Distributed knowledge storage
-- Continuous recruitment through families
+- Continuous knowledge pass through families
 - Ability to absorb and integrate new ideas
 - Large geographic spread
+- Vast knowledge and deep rooted culture
+- Being the oldest living religion
