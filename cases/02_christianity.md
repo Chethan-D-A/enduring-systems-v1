@@ -4,6 +4,8 @@ Type: Religion
 
 Founder: Jesus of Nazareth (Jesus Christ)
 
+Origin: Jerusalem
+
 Age/Duration: Roughly 2000 years
 
 What value it generated: Christianity created a sense of community and belonging for its followers. It provided shared moral goals and an universal identity. The monasteries preserved manuscripts which are today available to all. Christianity had a explicit systems for recruiting new members. Missionaries travelled far lands to preach the teachings of Jesus and hence spread christianity to vast lands of the globe.
