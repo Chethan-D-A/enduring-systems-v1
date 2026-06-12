@@ -20,12 +20,12 @@ This question matters because the humanity has always advanced through value gen
 
 # 4. What is the process used?
 I have used the process of collecting the sources, reading and making 5 line points for each case studies, find a common pattern in them, take top 6 common patterns, attack those very patterns with questions, and arrive at a version 1 conclusion about which might be the reasons.
-Here the sources are strictly constrained to 12 as this topic has a tendency to drag humans into endless deep dives through an ocean of interconnected fields.
+Here the sources are strictly constrained to 15 as this topic has a tendency to drag humans into endless deep dives through an ocean of interconnected fields.
 
 
 # 5. What are the project rules?
 For this project, rules are hard and immutable. It is the version 1 of the projects. The rules are:
-1. Hard constraint on the sources - 12 ONLY
+1. Hard constraint on the sources - 15 ONLY
 2. A hard deadline of 6 days to ensure no topic drift but ample time for version 1
 
 ---
