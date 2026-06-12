@@ -6,17 +6,17 @@ The original question:
 How do enduring value-generating systems come into existence and continue existing beyond their creator?
 may consiste of two separate questions.
 
-Question A:
+#### Question A:
 How do enduring value-generating systems come into existence?
 
-Question B:
+#### Question B:
 How do enduring value-generating systems continue existing beyond their creator?
 
 ---
 
 # Proposed Meta Mechanisms
 
-There mechanisms appear to create the necessry conditions for long term persistence.
+### There mechanisms appear to create the necessry conditions for long term persistence.
 
 1. Knowledge Creation:
    A system must initially generate a knowledge or value before it can ever preserve or transmit it. Either self created knowledge or acquired knowledge.
@@ -35,7 +35,7 @@ There mechanisms appear to create the necessry conditions for long term persiste
 
 # Proposed Persistence Mechanisms
 
-These mechanisms are required to operate across time and allow systems to survive beyond their creators.
+### These mechanisms are required to operate across time and allow systems to survive beyond their creators.
 
 1.Knowledge Continuity:
    The ability to preserve and transmit knowledge across generations.
