@@ -33,7 +33,7 @@ There mechanisms appear to create the necessry conditions for long term persiste
 
 ---
 
-# Proposed Persistenece Mechanisms
+# Proposed Persistence Mechanisms
 
 These mechanisms are required to operate across time and allow systems to survive beyond their creators.
 
