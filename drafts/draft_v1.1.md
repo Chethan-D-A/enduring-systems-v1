@@ -37,7 +37,7 @@ How do enduring value-generating systems continue existing beyond their creator?
 
 ### These mechanisms are required to operate across time and allow systems to survive beyond their creators.
 
-1.Knowledge Continuity:
+ 1.Knowledge Continuity:
    The ability to preserve and transmit knowledge across generations.
 
 2. Identity Continuity:
