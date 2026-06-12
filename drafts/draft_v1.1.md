@@ -1,6 +1,6 @@
 # Draft v1.1
 
-# Current Obeervation
+# Current Observation
 
 The original question:
 How do enduring value-generating systems come into existence and continue existing beyond their creator?
