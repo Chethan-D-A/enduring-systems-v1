@@ -1,6 +1,6 @@
 # Draft v1.1
 
-# Current Observation
+## Current Observation
 
 The original question:
 How do enduring value-generating systems come into existence and continue existing beyond their creator?
@@ -65,7 +65,7 @@ These mechanisms are required to operate across time and allow systems to surviv
 
 # Preliminary Observation
 
-Many failures in the dataset of 15 cases appear to be failures of persistence rather than failures of creation.
+### Many failures in the dataset of 15 cases appear to be failures of persistence rather than failures of creation.
 
 Examples include:
 - Dutch East India Company
