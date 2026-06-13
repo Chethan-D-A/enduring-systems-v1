@@ -703,6 +703,7 @@ Perhaps more fundamental variables existed beneath the visible mechanisms.
 - Commitment
 - Governance Quality
 - Legitimacy
+
 If one of these variables explained all observed persistence mechanisms, the framework might collapse into a simpler explanation.
 
 #### Initial Result
@@ -766,6 +767,7 @@ Several cases suggested that founders heavily influence future persistence.
 - Christianity
 - Toyota
 - Berkshire Hathaway
+
 Founders appeared capable of embedding structures, identities, knowledge systems, and incentives that later enable persistence.
 
 #### Result
@@ -785,6 +787,7 @@ Can mechanisms explaining a company also explain a university?
 - Zoroastrianism
 - Oxford
 - Wikipedia
+
 Scale appeared to change implementation rather than underlying principles.
 
 #### Result
@@ -883,6 +886,7 @@ Trust emerged as the strongest candidate.
 - Renewal
 - Cooperation
 - Institutional stability
+  
 The evidence suggested that trust plays a major role in persistence.
 However, trust did not appear capable of replacing the framework.
 Instead, it appeared to influence multiple mechanisms simultaneously.
@@ -898,6 +902,7 @@ Systems frequently depend upon participant willingness to continue contributing 
 - Identity Continuity
 - Knowledge Continuity
 - Renewal
+  
 However, commitment alone did not explain all observed patterns.
 
 ### 13.4 Legitimacy
@@ -912,6 +917,7 @@ Governance Quality initially appeared promising.
 **Further analysis suggested that it largely resides within:**
 - Structural Capacity
 - Adaptability Design
+
 As a result, Governance Quality was absorbed into the existing framework rather than treated as a separate explanatory layer.
 
 ### 13.6 Result
