@@ -85,7 +85,7 @@ The framework therefore explains **resilience and capacity**, rather than determ
 > **OR**
 > $$\text{Observed Outcomes} = \text{f(Internal Mechanisms, External Conditions)}$$
 > **OR**
-> $$\text{Observed Outcomes emerge from the interaction between Internal Mechanisms and External Conditions.}
+>Observed Outcomes emerge from the interaction between Internal Mechanisms and External Conditions.
 
 ### Revised Interpretation
 The framework is strongest when interpreted as a **model of resilience** rather than a predictive instrument. 
