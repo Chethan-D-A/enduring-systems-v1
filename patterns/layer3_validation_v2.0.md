@@ -67,12 +67,16 @@ To resolve this taxonomy error, a deeper root mechanism is proposed:
 
 Under this architectural interpretation, the original Layer 3 components shift from independent mechanisms into visible outputs:
 
+```
+
   [ Root Mechanism ]                 [ System Outputs ]
+
                                    ┌─> Knowledge Creation
                                    ├─> Innovation
  Generative Capacity  ─────────────┼─> Capability Development
                                    ├─> Relevance Maintenance
                                    └─> Value Renewal
+```
 
 ## Current Assessment
 Layer 3 successfully survives the collapse attack, but the investigation reveals its current formulation is incomplete.
