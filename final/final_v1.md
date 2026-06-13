@@ -611,20 +611,20 @@ A model constructed from observations will often appear convincing because it wa
 The more difficult question is whether the model continues to hold when subjected to competing explanations and adversarial scrutiny.
 The next phase of the investigation therefore deliberately shifted from model construction to model criticism.
 **The objective was no longer:**
-What supports the model?
+> What supports the model?
 **Instead, the objective became:**
-What could invalidate the model?
+> What could invalidate the model?
 This transition marked the beginning of the attack phase.
 
 ### 11.2 The Necessity Attack
 
-**Attack Question**
+#### Attack Question
 Are the proposed mechanisms actually necessary for persistence?
 The existence of recurring mechanisms does not automatically imply necessity.
 A mechanism may appear repeatedly while still being replaceable by other mechanisms.
-**The attack therefore asked:**
+#### The attack therefore asked:
 Can systems persist without the proposed mechanisms?
-**Evaluation**
+#### Evaluation
 The investigation focused primarily on three candidate mechanisms.
 #### Knowledge Continuity
 Knowledge Continuity appeared in nearly every surviving system examined.
@@ -654,7 +654,7 @@ Partially Necessary
 **Confidence:**
 Low
 
-**Result**
+#### Result
 The attack failed to eliminate the proposed mechanisms entirely.
 However, it also failed to conclusively prove necessity.
 **The result was therefore classified as:**
@@ -663,12 +663,12 @@ This represented the first indication that some mechanisms might occupy a more f
 
 ### 11.3 The Sufficiency Attack
 
-**Attack Question**
+#### Attack Question
 Is any individual mechanism sufficient by itself?
 The necessity attack asks whether something is required.
 The sufficiency attack asks whether something alone is enough.
 This distinction proved important.
-**Evaluation**
+#### Evaluation
 Several historical cases challenged the idea that any single mechanism could guarantee persistence.
 #### Nalanda University
 Nalanda possessed strong knowledge preservation capabilities.
@@ -684,7 +684,7 @@ Possessing one mechanism did not appear sufficient.
 Possessing several mechanisms did not appear sufficient.
 Persistence appeared more complex than any single-factor explanation.
 
-**Result**
+#### Result
 The attack succeeded.
 **Current Assessment:**
 No individual mechanism appears sufficient by itself.
@@ -694,7 +694,7 @@ This conclusion became one of the strongest findings of the investigation.
 
 ### 11.4 The Hidden Variable Attack
 
-**Attack Question**
+#### Attack Question
 Are the identified mechanisms actually manifestations of deeper variables?
 The attack proposed that the framework might be describing symptoms rather than causes.
 Perhaps more fundamental variables existed beneath the visible mechanisms.
@@ -705,7 +705,7 @@ Perhaps more fundamental variables existed beneath the visible mechanisms.
 - Legitimacy
 If one of these variables explained all observed persistence mechanisms, the framework might collapse into a simpler explanation.
 
-**Initial Result**
+#### Initial Result
 The available evidence was insufficient to resolve the question.
 The attack therefore remained unresolved.
 However, the challenge proved significant enough to warrant a dedicated investigation.
@@ -713,7 +713,7 @@ This eventually led to the Hidden Variable Investigation described later in this
 
 ### 11.5 The Survival vs Endurance Attack
 
-**Attack Question**
+#### Attack Question
 Does the framework explain survival or enduring value generation?
 This attack emerged from an increasingly uncomfortable observation.
 Many systems survive.
@@ -724,12 +724,12 @@ An institution may survive.
 An organization may survive.
 Yet survival alone does not explain why certain systems continue producing knowledge, innovation, capability, or cultural influence centuries later.
 
-**Evaluation**
+#### Evaluation
 The existing framework appeared significantly stronger at explaining persistence than explaining continuing value generation.
 **The model answered:**
-How does a system survive?
+> How does a system survive?
 **more effectively than:**
-How does a system continue creating value?
+> How does a system continue creating value?
 
 **Result**
 The attack partially succeeded.
@@ -742,23 +742,23 @@ This attack ultimately became one of the most influential challenges faced durin
 Is the distinction between creation mechanisms and persistence mechanisms actually valid?
 The attack examined whether creation and persistence were genuinely separate processes.
 
-**Evaluation**
+#### Evaluation
 The investigation concluded that the distinction was useful and analytically meaningful.
 Several mechanisms appeared responsible for creating systems.
 Different mechanisms appeared responsible for preserving them.
 The attack therefore strengthened rather than weakened the framework.
 
-**Result**
+#### Result
 Attack Defeated Through Model Refinement
 This outcome reinforced the emerging distinction between creation and persistence.
 
 ### 11.7 The Founder Dependency Attack
 
-**Attack Question**
+#### Attack Question
 How much of long-term persistence is determined by founders?
 Many enduring systems originate from exceptional founders.
 **This raises an important possibility:**
-Are persistence mechanisms merely reflections of founder decisions?
+> Are persistence mechanisms merely reflections of founder decisions?
 
 **Evaluation**
 Several cases suggested that founders heavily influence future persistence.
@@ -768,18 +768,18 @@ Several cases suggested that founders heavily influence future persistence.
 - Berkshire Hathaway
 Founders appeared capable of embedding structures, identities, knowledge systems, and incentives that later enable persistence.
 
-**Result**
+#### Result
 The attack partially succeeded.
 Persistence mechanisms remained relevant, but founder influence appeared larger than initially assumed.
 
 ### 11.8 The Scale Attack
 
-**Attack Question**
+#### Attack Question
 Do the same mechanisms operate across different scales?
 Can mechanisms explaining a religion also explain a company?
 Can mechanisms explaining a company also explain a university?
 
-**Evaluation**
+#### Evaluation
 **The same broad patterns appeared repeatedly across:**
 - Christianity
 - Zoroastrianism
@@ -787,38 +787,38 @@ Can mechanisms explaining a company also explain a university?
 - Wikipedia
 Scale appeared to change implementation rather than underlying principles.
 
-**Result**
+#### Result
 The attack mostly failed.
 **Confidence remained low due to limited sample size.**
 However, no strong evidence emerged requiring separate models for different scales.
 
 ### 11.9 The Environment Attack
 
-**Attack Question**
+#### Attack Question
 How much of persistence depends upon external conditions rather than internal mechanisms?
 This attack challenged the entire orientation of the framework.
 Perhaps systems survive not because of what they are, but because of where and when they exist.
 
-**Evaluation**
+#### Evaluation
 Cases such as the Indus Valley Civilization suggested that environmental factors may significantly influence outcomes.
 However, the available evidence proved insufficient to determine their relative importance.
 
-**Result**
+#### Result
 Unresolved.
 The question remained open and eventually evolved into a far stronger challenge later in the investigation.
 
 ### 11.10 The Adaptation Attack
 
-**Attack Question**
+#### Attack Question
 Is adaptation always necessary?
 The framework increasingly treated adaptation as important.
 But was it universally required?
 
-**Evaluation**
+#### Evaluation
 Ancient Egypt raised questions regarding the necessity of continual adaptation.
 Some systems appeared capable of surviving long periods through continuity rather than rapid change.
 
-**Result**
+#### Result
 Unresolved.
 Further investigation would be required.
 
@@ -865,11 +865,11 @@ The investigation therefore examined several candidate variables.
 
 Trust emerged as the strongest candidate.
 **Trust influences:**
-Knowledge transfer
-Succession
-Renewal
-Cooperation
-Institutional stability
+- Knowledge transfer
+- Succession
+- Renewal
+- Cooperation
+- Institutional stability
 The evidence suggested that trust plays a major role in persistence.
 However, trust did not appear capable of replacing the framework.
 Instead, it appeared to influence multiple mechanisms simultaneously.
@@ -918,15 +918,15 @@ The framework explained persistence reasonably well.
 It explained enduring value generation much less effectively.
 This created a problem.
 **The original research question concerned:**
-Enduring value-generating systems.
+> Enduring value-generating systems.
 Not merely surviving systems.
 A dedicated investigation therefore became necessary.
 
 ### 14.2 Core Observation
 
 **The investigation produced a crucial distinction:**
-Persistence enables value generation.
-Persistence does not guarantee value generation.
+> Persistence enables value generation.
+> Persistence does not guarantee value generation.
 A system may survive while becoming increasingly irrelevant.
 Examples can be found throughout history.
 The reverse relationship did not appear to hold.
@@ -937,9 +937,9 @@ This suggested an asymmetric dependency structure.
 
 The investigation concluded that survival and endurance are related but distinct phenomena.
 **Persistence answers:**
-How does a system continue existing?
+> How does a system continue existing?
 **Endurance answers:**
-How does a system continue generating value?
+> How does a system continue generating value?
 This distinction ultimately prepared the foundation for the next major revision of the framework.
 
 ## Transition To Draft v2.0
@@ -1465,3 +1465,15 @@ It is also the strongest conclusion supported by the current evidence.
 **Status:** Complete
 
 **Confidence:** Medium
+
+--
+
+# Research Contributions
+
+This investigation produced five primary contributions:
+
+1. Separation of Creation, Persistence, and Endurance as distinct problems.
+2. Identification of eight candidate persistence mechanisms.
+3. Recognition that persistence and enduring value generation are not identical.
+4. Development of the Generative Capacity concept.
+5. Reframing the framework as a resilience model rather than a deterministic survival model.
