@@ -82,9 +82,9 @@ The framework therefore explains **resilience and capacity**, rather than determ
 > 
 > However, the absence of guaranteed survival does not invalidate the framework. Instead, it proves that:
 > $$\text{Internal Mechanisms} + \text{External Conditions} = \text{Observed Outcomes}$$
-> Or
+> **Or**
 > Observed Outcomes = f(Internal Mechanisms, External Conditions)
-> Or
+> **Or**
 > Observed Outcomes emerge from the interaction between Internal Mechanisms and External Conditions.
 
 ### Revised Interpretation
