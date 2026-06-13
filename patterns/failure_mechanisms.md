@@ -100,7 +100,7 @@ A single isolated mechanism (e.g., *Resource Collapse*) can often be absorbed or
 
 ```
 
-[ Knowledge Loss ]  ──+──>  [ Succession Failure ]  ──+──>  [ Adaptation Failure ]  ──>  CATASTROPHIC COLLAPSE
+[ Knowledge Loss ]  ── + ──>  [ Succession Failure ]  ── + ──>  [ Adaptation Failure ]  ──>  CATASTROPHIC COLLAPSE
 
 ```
 
