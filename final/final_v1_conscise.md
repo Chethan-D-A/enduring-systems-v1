@@ -126,5 +126,3 @@ The model remains preliminary and is bounded by the following vectors:
 * **Version:** Final v1 (Concise)
 * **Confidence Level:** Medium
 * **Status:** Locked for initial synthesis and publication review.
-
-```
