@@ -103,14 +103,13 @@ The most formidable stress test to this framework was the **Environmental Domina
 
 ## Final Answer
 
-> [!TIP]
-> Enduring value-generating systems emerge when something valuable is **created**, faithfully **preserved** across generations, and **continuously renewed** long after the creator is no longer necessary.
-> 
-> * **Creation** begins the process.
-> * **Persistence** protects the process.
-> * **Generative Capacity** sustains the process.
-> 
-> True endurance is an emergent property born from the systemic interaction of all three.
+Enduring value-generating systems emerge when something valuable is **created**, faithfully **preserved** across generations, and **continuously renewed** long after the creator is no longer necessary.
+
+* **Creation** begins the process.
+* **Persistence** protects the process.
+* **Generative Capacity** sustains the process.
+
+True endurance is an emergent property born from the systemic interaction of all three.
 
 ---
 
