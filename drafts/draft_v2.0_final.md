@@ -161,5 +161,3 @@ No single mechanism is sufficient. Endurance is a systemic property of interacti
   * [x] Survival vs. Endurance Investigation
   * [x] Layer 3 Validation
 * **Next Steps:** Ready for final synthesis and publication review.
-
-```
