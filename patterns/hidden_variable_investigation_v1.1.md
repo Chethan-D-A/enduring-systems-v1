@@ -83,13 +83,7 @@ The Hidden Variable Attack does not currently appear strong enough to collapse t
 ### Preliminary Observation
 A possible layered structure may exist:
 
-Meta Mechanisms
-↓
-Trust / Commitment Layer
-↓
-Knowledge Continuity | Identity Continuity | Renewal Mechanisms | Succession Capacity
-↓
-Long-Term Persistence
+Meta Mechanisms **->** Trust / Commitment Layer **->** Knowledge Continuity | Identity Continuity | Renewal Mechanisms | Succession Capacity **->** Long-Term Persistence
 
 > [!NOTE]
 > This observation remains speculative and requires further investigation.
