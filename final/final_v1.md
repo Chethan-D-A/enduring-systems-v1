@@ -622,8 +622,8 @@ This transition marked the beginning of the attack phase.
 Are the proposed mechanisms actually necessary for persistence?
 The existence of recurring mechanisms does not automatically imply necessity.
 A mechanism may appear repeatedly while still being replaceable by other mechanisms.
-#### The attack therefore asked:
-Can systems persist without the proposed mechanisms?
+**The attack therefore asked:**
+> Can systems persist without the proposed mechanisms?
 #### Evaluation
 The investigation focused primarily on three candidate mechanisms.
 #### Knowledge Continuity
@@ -731,14 +731,14 @@ The existing framework appeared significantly stronger at explaining persistence
 **more effectively than:**
 > How does a system continue creating value?
 
-**Result**
+#### Result
 The attack partially succeeded.
 The framework appeared incomplete.
 This attack ultimately became one of the most influential challenges faced during the project because it forced reconsideration of the original research question itself.
 
 ### 11.6 The Creation vs Persistence Attack
 
-**Attack Question**
+#### Attack Question
 Is the distinction between creation mechanisms and persistence mechanisms actually valid?
 The attack examined whether creation and persistence were genuinely separate processes.
 
@@ -760,7 +760,7 @@ Many enduring systems originate from exceptional founders.
 **This raises an important possibility:**
 > Are persistence mechanisms merely reflections of founder decisions?
 
-**Evaluation**
+#### Evaluation
 Several cases suggested that founders heavily influence future persistence.
 **Examples included:**
 - Christianity
@@ -827,30 +827,37 @@ Further investigation would be required.
 Following evaluation, the attacks produced four broad outcomes.
 
 ### Attacks That Succeeded
-Sufficiency Attack
+
+#### Sufficiency Attack
 No individual mechanism appears sufficient.
-Selection Bias Attack
+
+#### Selection Bias Attack
 The limited dataset prevents strong claims of universality.
 Different case selections may produce different conclusions.
 
 ### Attacks That Partially Succeeded
-Survival vs Endurance Attack
+
+#### Survival vs Endurance Attack
 The framework appeared stronger at explaining persistence than enduring value generation.
-Founder Dependency Attack
+
+#### Founder Dependency Attack
 Founders appeared more influential than initially assumed.
 
 ### Attacks That Were Partially Defeated
-Necessity Attack
+
+#### Necessity Attack
 Some mechanisms appeared increasingly likely to be necessary, although definitive proof remained unavailable.
 
 ### Attacks That Led To Model Refinement
-Creation vs Persistence Attack
+
+#### Creation vs Persistence Attack
 Rather than weakening the framework, this attack clarified and strengthened it.
 
 ### Attacks Remaining Unresolved
-Hidden Variable Attack
-Environment Attack
-Adaptation Attack
+
+#### Hidden Variable Attack
+#### Environment Attack
+#### Adaptation Attack
 These challenges survived the first attack phase and motivated later investigations.
 
 ## 13. Hidden Variable Investigation
@@ -926,6 +933,7 @@ A dedicated investigation therefore became necessary.
 
 **The investigation produced a crucial distinction:**
 > Persistence enables value generation.
+
 > Persistence does not guarantee value generation.
 A system may survive while becoming increasingly irrelevant.
 Examples can be found throughout history.
@@ -1376,6 +1384,19 @@ The investigation found evidence regarding necessity and insufficiency.
 
 However, definitive proof remains unavailable.
 
+
+--
+
+# Research Contributions
+
+This investigation produced five primary contributions:
+
+1. Separation of Creation, Persistence, and Endurance as distinct problems.
+2. Identification of eight candidate persistence mechanisms.
+3. Recognition that persistence and enduring value generation are not identical.
+4. Development of the Generative Capacity concept.
+5. Reframing the framework as a resilience model rather than a deterministic survival model.
+
 ---
 
 # 20. Final Answer
@@ -1465,15 +1486,3 @@ It is also the strongest conclusion supported by the current evidence.
 **Status:** Complete
 
 **Confidence:** Medium
-
---
-
-# Research Contributions
-
-This investigation produced five primary contributions:
-
-1. Separation of Creation, Persistence, and Endurance as distinct problems.
-2. Identification of eight candidate persistence mechanisms.
-3. Recognition that persistence and enduring value generation are not identical.
-4. Development of the Generative Capacity concept.
-5. Reframing the framework as a resilience model rather than a deterministic survival model.
